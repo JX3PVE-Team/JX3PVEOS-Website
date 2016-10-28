@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<version>
+  <main version="1.0"  mandatory="0" />
+  <content>
+	  <soundStart version="1.0" name="start.wav" newname="start.wav" path="\sound\" url="http://os.jx3pve.com/download/keypress/1.0/sound/start.wav" />
+	  <soundStop version="1.0" name="stop.wav" newname="stop.wav" path="\sound\" url="http://os.jx3pve.com/download/keypress/1.0/sound/stop.wav" />
+	  <x32dll version="1.0" name="GmKMClassDll.dll" newname="GmKMClassDll.dll" path="\x32\" url="http://os.jx3pve.com/download/keypress/1.0/x32/GmKMClassDll.dll" />
+	  <x32drive version="1.0" name="GmkdbMouWDM.sys" newname="GmkdbMouWDM.sys" path="\x32\" url="http://os.jx3pve.com/download/keypress/1.0/x32/GmkdbMouWDM.sys" />
+	  <x64dll version="1.0" name="GmKMClassDll.dll" newname="GmKMClassDll.dll" path="\x64\" url="http://os.jx3pve.com/download/keypress/1.0/x64/GmKMClassDll.dll" />
+	  <x64drive version="1.0" name="GmkdbMouWDM.sys" newname="GmkdbMouWDM.sys" path="\x64\" url="http://os.jx3pve.com/download/keypress/1.0/x64/GmkdbMouWDM.sys" />
+	  <CSkin version="1.0" name="CSkin.dll" newname="CSkin.dll" path="\" url="http://os.jx3pve.com/download/keypress/1.0/CSkin.dll" />
+	  <JX3PVEOS version="1.0" name="JX3PVEOS.exe" newname="JX3PVEOS.exe" path="\" url="http://os.jx3pve.com/download/keypress/1.0/JX3PVEOS.exe" />
+	  <keys version="1.0" name="keys.xml" newname="keys.xml" path="\" url="http://os.jx3pve.com/download/keypress/1.0/keys.xml" />
+	  <language version="1.0" name="language.xml" newname="language.xml" path="\" url="http://os.jx3pve.com/download/keypress/1.0/language.xml" />
+	  <osMain version="1.0" name="osMain.exe" newname="osMain.exe" path="\" url="http://os.jx3pve.com/download/keypress/1.0/osMain.exe" />
+	  <English version="1.0" name="English.xml" newname="English.xml" path="\language\" url="http://os.jx3pve.com/download/keypress/1.0/language/English.xml" />
+	  <Simplified version="1.0" name="Simplified.xml" newname="Simplified.xml" path="\language\" url="http://os.jx3pve.com/download/keypress/1.0/language/Simplified.xml" />
+	  <Traditional version="1.0" name="Traditional.xml" newname="Traditional.xml" path="\language\" url="http://os.jx3pve.com/download/keypress/1.0/language/Traditional.xml" />
+  </content>
+</version>
